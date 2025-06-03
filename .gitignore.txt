@@ -1,0 +1,30 @@
+# Сборочные файлы и исполняемые
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+
+# Каталоги сборки
+Debug/
+Release/
+x64/
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+
+# Системные файлы
+Thumbs.db
+.DS_Store
